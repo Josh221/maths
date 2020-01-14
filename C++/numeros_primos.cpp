@@ -9,7 +9,7 @@ int main()
 	printf("Este programa decide si un numero es primo\n");
 
 	do{
-		printf("Igresa un entero positivo(n > 1): ");
+		printf("Ingresa un entero positivo(n > 1): ");
 		scanf("%d", &numero);
 
 		if(numero <= 1)
